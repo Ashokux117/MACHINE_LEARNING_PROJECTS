@@ -25,11 +25,15 @@ streamlit run app.py
 4. project structure
 MACHINE_LEARNING_PROJECTS/
 └── linear_regression/
-    ├── app.py
-    ├── lrg_model.pkl
-    ├── requirements.txt
-    ├── Salary_Data.csv
-    └── README.md               # Project documentation
+    ├── Linear_reg_model.py
+    ├── Liear_reg_model_part_2.py
+    ├── README.md                  # Project documentation
+    ├── Salary_Data.csv            # dataset 
+    ├── app.yml                    # streamlit app run
+    ├── lrg.py                     
+    ├── lrg_model.pkl              # backend pkl file
+    ├── requirements.txt             
+
 
 5. Dependencies
 
@@ -40,6 +44,5 @@ Streamlit
 NumPy
 
 scikit-learn
-
 
 
