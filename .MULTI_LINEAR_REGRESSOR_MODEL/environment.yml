@@ -1,0 +1,11 @@
+name: ml-linear-model
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - matplotlib
+      - scikit-learn
+      - statsmodels
+      - streamlit
