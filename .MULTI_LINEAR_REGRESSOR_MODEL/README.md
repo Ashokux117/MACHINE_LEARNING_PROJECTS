@@ -1,4 +1,4 @@
-# ## Multiple Linear Regression App
+### Multiple Linear Regression App
 
 A simple **Streamlit web application** to train and test a **Multiple Linear Regression model** on an Investment dataset.
 This app allows users to upload their dataset, train the model, check bias/variance, and make predictions interactive
@@ -20,7 +20,7 @@ This app allows users to upload their dataset, train the model, check bias/varia
 
 ---
 
-## Installation
+## Installation#
 
 ### Option 1: Using bash
 
@@ -51,7 +51,7 @@ streamlit run mlr_app.py
   ---
 
 
-## Model Details
+### Model Details
 
 * **Algorithm:** Multiple Linear Regression
 * **Libraries Used:**
@@ -67,3 +67,5 @@ streamlit run mlr_app.py
 
   🔗 **Project Link:**
 ```
+ https://github.com/Ashokux117/MACHINE_LEARNING_PROJECTS.git
+ 
